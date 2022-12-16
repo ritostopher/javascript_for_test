@@ -1,2 +1,5 @@
 <?
 	phpinfo();
+
+
+	echo "some";
